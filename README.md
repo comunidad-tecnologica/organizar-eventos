@@ -25,5 +25,5 @@ Si quieres aportar más ideas o recursos, puedes [abrir un _issue_](https://gith
 ## :spiral_notepad: Recursos
 
 * Slack para compartir ideas entre organizadores: [Comunidades Técnicas España](https://join.slack.com/t/comunidadestc-mld4471/shared_invite/enQtNjY1MzA1NzM5OTM5LWI4YmQ1MGE3MjNhOTRlZjBlYWZjNGFhNDFmOTg5NTMxZDQwYzk4NDI2ODRmNzk0ZmI1YzEyMWIyZDlmMmFmNjc)
-* [Aplicación para gestionar C4P](https://github.com/rubycentral/cfp-app)
-* [Plataforma para gestionar Q&A](https://www.sli.do)
+* Aplicación para gestionar C4P: [Call for Proposals (CFP) App](https://github.com/rubycentral/cfp-app)
+* Plataforma para gestionar Q&A: [sli.do](https://www.sli.do)
