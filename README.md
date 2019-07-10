@@ -2,7 +2,7 @@
 
 Si quieres aportar más ideas o recursos, puedes [abrir un _issue_](https://github.com/comunidad-tecnologica/organizar-eventos/issues/new) o [hacer una _pull request_](https://help.github.com/en/articles/creating-a-pull-request).
 
-## Ideas
+## :bulb: Ideas
 
 ### Información del evento
 
@@ -22,6 +22,6 @@ Si quieres aportar más ideas o recursos, puedes [abrir un _issue_](https://gith
 
 * Para ayudar a perder el miedo escénico: [#upfront](http://weareupfront.com)
 
-## Recursos
+## :spiral_notepad: Recursos
 
 * Slack para compartir ideas entre organizadores: [Comunidades Técnicas España](https://join.slack.com/t/comunidadestc-mld4471/shared_invite/enQtNjY1MzA1NzM5OTM5LWI4YmQ1MGE3MjNhOTRlZjBlYWZjNGFhNDFmOTg5NTMxZDQwYzk4NDI2ODRmNzk0ZmI1YzEyMWIyZDlmMmFmNjc)
