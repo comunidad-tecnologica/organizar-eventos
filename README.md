@@ -1,4 +1,5 @@
 # Ideas y recursos para la organización de eventos
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 
 Si quieres aportar más ideas o recursos, puedes [abrir un _issue_](https://github.com/comunidad-tecnologica/organizar-eventos/issues/new) o [hacer una _pull request_](https://help.github.com/en/articles/creating-a-pull-request).
@@ -29,7 +30,9 @@ Si quieres aportar más ideas o recursos, puedes [abrir un _issue_](https://gith
 * Aplicación para gestionar C4P: [Call for Proposals (CFP) App](https://github.com/rubycentral/cfp-app)
 * Plataforma para gestionar Q&A: [sli.do](https://www.sli.do)
 
-## Contributors ✨
+
+<!-- Do not translate this title to keep the number of contributors updated in the badge -->
+## Contributors
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
